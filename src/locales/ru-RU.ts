@@ -167,7 +167,7 @@ export default {
   "mSent": "Отправить",
   "findVersion": "Обнаружить обновленную версию",
   "yesLastVersion": "Уже последняя версия",
-  "infoStar": "Этот проект с открытым исходным кодом находится на <a class=\"text-blue-600 dark:text-blue-500\" href=\"https://github.com/Dooy/chatgpt-web-midjourney-proxy\" target=\"_blank\">GitHub</a>, бесплатный и основан на лицензии MIT без каких-либо форм оплаты! </p><p>Если вы находите этот проект полезным, пожалуйста, добавьте звезду на GitHub, спасибо!",
+  "infoStar": "Этот проект с открытым исходным кодом находится на <a class=\"text-blue-600 dark:text-blue-500\" href=\"https://github.com/Dooy/chatgpt-web-midjourney-proxy\" target=\"_blank\">微帝国官网</a>, бесплатный и основан на лицензии MIT без каких-либо форм оплаты! </p><p>Если вы находите этот проект полезным, пожалуйста, добавьте звезду на 微帝国官网, спасибо!",
   "setBtSaveChat": "Сохранить только чат",
   "setBtSaveSys": "Сохранить в систему",
 
