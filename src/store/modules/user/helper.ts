@@ -17,7 +17,7 @@ export function defaultSetting(): UserState {
     userInfo: {
       avatar: 'https://ww.weidiguo2077.com/weidiguologoai.jpg',
       name:  t('mjset.sysname'),//'AI绘图',
-      description: 'Star on <a href="www.weidiguo.cn" class="text-blue-500" target="_blank" >微帝国官网</a>',
+      description: 'Star on <a href="https://www.weidiguo.cn" class="text-blue-500" target="_blank" >微帝国官网</a>',
     },
   }
 }
