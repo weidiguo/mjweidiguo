@@ -196,7 +196,7 @@ export default {
     "server": "Сервер",
     "about": "О нас",
     "model": "Модель",
-    "sysname": "Искусственный интеллект для рисования"
+    "sysname": "微帝国"
   },
   "mjtab": {
     "chat": "Чат",
