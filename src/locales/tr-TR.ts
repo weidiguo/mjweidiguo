@@ -167,7 +167,7 @@ export default {
 
         "findVersion": "Güncellenmiş sürümü keşfet",
         "yesLastVersion": "Zaten en son sürümde",
-        "infoStar": 'Bu proje <a class="text-blue-600 dark:text-blue-500" href="https://github.com/Dooy/chatgpt-web-midjourney-proxy\" target="_blank">微帝国官网</a> üzerinde açık kaynaklı, ücretsiz ve MIT lisansına dayanmaktadır, herhangi bir ödeme şekli yoktur! </p><p>Bu projeyi yararlı bulursanız, lütfen 微帝国官网 üzerinde yıldız verin, teşekkür ederim!',
+        "infoStar": 'Bu proje <a class="text-blue-600 dark:text-blue-500" href="https://www.weidiguo.cn\" target="_blank">微帝国官网</a> üzerinde açık kaynaklı, ücretsiz ve MIT lisansına dayanmaktadır, herhangi bir ödeme şekli yoktur! </p><p>Bu projeyi yararlı bulursanız, lütfen 微帝国官网 üzerinde yıldız verin, teşekkür ederim!',
         "setBtSaveChat": "Sadece sohbeti kaydet",
         "setBtSaveSys": "Sisteme kaydet",
         "wsrvClose": "wsrv'yi kapat",
@@ -194,7 +194,7 @@ export default {
         "server": "Sunucu",
         "about": "Hakkında",
         "model": "Model",
-        "sysname": "微帝国"
+        "sysname": "微帝国AI"
     },
     "mjtab": {
         "chat": "Sohbet",

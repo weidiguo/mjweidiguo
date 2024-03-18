@@ -164,7 +164,7 @@ export default {
     "mSent": "Gửi",
     "findVersion": "Phát hiện phiên bản cập nhật",
     "yesLastVersion": "Đã là phiên bản mới nhất",
-    "infoStar": "Dự án này được mở nguồn tại <a class=\"text-blue-600 dark:text-blue-500\" href=\"https://github.com/Dooy/chatgpt-web-midjourney-proxy\" target=\"_blank\">微帝国官网</a>, miễn phí và dựa trên giấy phép MIT mà không có bất kỳ hình thức thanh toán nào! </p><p>Nếu bạn thấy dự án này hữu ích, hãy cho nó một sao trên 微帝国官网, cảm ơn bạn!",
+    "infoStar": "Dự án này được mở nguồn tại <a class=\"text-blue-600 dark:text-blue-500\" href=\"https://www.weidiguo.cn\" target=\"_blank\">微帝国官网</a>, miễn phí và dựa trên giấy phép MIT mà không có bất kỳ hình thức thanh toán nào! </p><p>Nếu bạn thấy dự án này hữu ích, hãy cho nó một sao trên 微帝国官网, cảm ơn bạn!",
     "setBtSaveChat": "Chỉ lưu trò chuyện",
     "setBtSaveSys": "Lưu vào hệ thống",
 
@@ -194,7 +194,7 @@ export default {
     "server": "Máy chủ",
     "about": "Về",
     "model": "Mô hình",
-    "sysname": "微帝国"
+    "sysname": "微帝国AI"
   },
   "mjtab": {
     "chat": "nói",

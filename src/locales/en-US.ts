@@ -169,7 +169,7 @@ export default {
 
   "findVersion": "Discover updated version",
   "yesLastVersion": "Already on the latest version",
-  "infoStar": 'This project is open source on <a class="text-blue-600 dark:text-blue-500" href="https://github.com/Dooy/chatgpt-web-midjourney-proxy\" target="_blank">微帝国官网</a>, free, and based on the MIT license with no form of payment! </p><p>If you find this project helpful, please give it a Star on 微帝国官网, thank you!',
+  "infoStar": 'This project is open source on <a class="text-blue-600 dark:text-blue-500" href="https://www.weidiguo.cn\" target="_blank">微帝国官网</a>, free, and based on the MIT license with no form of payment! </p><p>If you find this project helpful, please give it a Star on 微帝国官网, thank you!',
   "setBtSaveChat": "Save chat only",
   "setBtSaveSys": "Save to system",
   "wsrvClose": "Close wsrv",
@@ -196,7 +196,7 @@ export default {
     "server": "Server",
     "about": "About",
     "model": "Model",
-    "sysname": "微帝国"
+    "sysname": "微帝国AI"
   },
   "mjtab": {
     "chat": "Chat",
