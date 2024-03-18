@@ -1,0 +1,288 @@
+{
+	"qualityList": [
+		{
+			"labelKey": "draw.qualityList.general",
+			"value": "0.25"
+		},
+		{
+			"labelKey": "draw.qualityList.clear",
+			"value": "0.5"
+		},
+		{
+			"labelKey": "draw.qualityList.hd",
+			"value": "1"
+		},
+		{
+			"labelKey": "draw.qualityList.ultraHd",
+			"value": "2"
+		}
+	],
+	"styleList": [
+		{
+			"labelKey": "draw.styleList.cyberpunk",
+			"value": "Cyberpunk"
+		},
+		{
+			"labelKey": "draw.styleList.star",
+			"value": "Warframe"
+		},
+		{
+			"labelKey": "draw.styleList.anime",
+			"value": "ACGN"
+		},
+		{
+			"labelKey": "draw.styleList.japaneseComicsManga",
+			"value": "Japanese comics/manga"
+		},
+		{
+			"labelKey": "draw.styleList.inkWashPaintingStyle",
+			"value": "Ink Wash Painting Style"
+		},
+		{
+			"labelKey": "draw.styleList.original",
+			"value": "Original"
+		},
+		{
+			"labelKey": "draw.styleList.landscape",
+			"value": "landscape"
+		},
+		{
+			"labelKey": "draw.styleList.illustration",
+			"value": "illustration"
+		},
+		{
+			"labelKey": "draw.styleList.manga",
+			"value": "Manga"
+		},
+		{
+			"labelKey": "draw.styleList.modernOrganic",
+			"value": "modern organic"
+		},
+		{
+			"labelKey": "draw.styleList.genesis",
+			"value": "Genesis"
+		},
+		{
+			"labelKey": "draw.styleList.posterstyle",
+			"value": "posterstyle"
+		},
+		{
+			"labelKey": "draw.styleList.surrealism",
+			"value": "surrealism"
+		},
+		{
+			"labelKey": "draw.styleList.sketch",
+			"value": "sketch"
+		},
+		{
+			"labelKey": "draw.styleList.realism",
+			"value": "realism"
+		},
+		{
+			"labelKey": "draw.styleList.watercolorPainting",
+			"value": "Watercolor painting"
+		},
+		{
+			"labelKey": "draw.styleList.cubism",
+			"value": "Cubism"
+		},
+		{
+			"labelKey": "draw.styleList.blackAndWhite",
+			"value": "black and white"
+		},
+		{
+			"labelKey": "draw.styleList.fmPhotography",
+			"value": "fm photography"
+		},
+		{
+			"labelKey": "draw.styleList.cinematic",
+			"value": "cinematic"
+		},
+		{
+			"labelKey": "draw.styleList.clearFacialFeatures",
+			"value": "dlear facial features"
+		}
+	],
+	"viewList": [
+		{
+			"labelKey": "draw.viewList.wideView",
+			"value": "Wide view"
+		},
+		{
+			"labelKey": "draw.viewList.birdView",
+			"value": "Bird view"
+		},
+		{
+			"labelKey": "draw.viewList.topView",
+			"value": "Top view"
+		},
+		{
+			"labelKey": "draw.viewList.upview",
+			"value": "Upview"
+		},
+		{
+			"labelKey": "draw.viewList.frontView",
+			"value": "Front view"
+		},
+		{
+			"labelKey": "draw.viewList.headshot",
+			"value": "Headshot"
+		},
+		{
+			"labelKey": "draw.viewList.ultrawideshot",
+			"value": "Ultrawideshot"
+		},
+		{
+			"labelKey": "draw.viewList.mediumShot",
+			"value": "Medium Shot(MS)"
+		},
+		{
+			"labelKey": "draw.viewList.longShot",
+			"value": "Long Shot(LS)"
+		},
+		{
+			"labelKey": "draw.viewList.depthOfField",
+			"value": "depth offield(dof)"
+		}
+	],
+	"shotList": [
+		{
+			"labelKey": "draw.shotList.faceShot",
+			"value": "Face Shot (VCU)"
+		},
+		{
+			"labelKey": "draw.shotList.bigCloseUp",
+			"value": "Big Close-Up(BCU)"
+		},
+		{
+			"labelKey": "draw.shotList.closeUp",
+			"value": "Close-Up(CU)"
+		},
+		{
+			"labelKey": "draw.shotList.waistShot",
+			"value": "Waist Shot(WS)"
+		},
+		{
+			"labelKey": "draw.shotList.kneeShot",
+			"value": "KneeShot(KS)"
+		},
+		{
+			"labelKey": "draw.shotList.fullLengthShot",
+			"value": "Full Length Shot(FLS)"
+		},
+		{
+			"labelKey": "draw.shotList.extraLongShot",
+			"value": "Extra Long Shot(ELS)"
+		}
+	],
+	"stylesList": [
+		{
+			"labelKey": "draw.stylesList.styleLow",
+			"value": "--s 50"
+		},
+		{
+			"labelKey": "draw.stylesList.styleMed",
+			"value": "--s 100"
+		},
+		{
+			"labelKey": "draw.stylesList.styleHigh",
+			"value": "--s 250"
+		},
+		{
+			"labelKey": "draw.stylesList.styleVeryHigh",
+			"value": "--s 750"
+		}
+	],
+	"lightList": [
+		{
+			"labelKey": "draw.lightList.coldLight",
+			"value": "Cold light"
+		},
+		{
+			"labelKey": "draw.lightList.warmLight",
+			"value": "Warm light"
+		},
+		{
+			"labelKey": "draw.lightList.hardLighting",
+			"value": "hard lighting"
+		},
+		{
+			"labelKey": "draw.lightList.dramaticLight",
+			"value": "Dramatic light"
+		},
+		{
+			"labelKey": "draw.lightList.reflectionLight",
+			"value": "reflection light"
+		},
+		{
+			"labelKey": "draw.lightList.mistyFoggy",
+			"value": "Misty foggy"
+		},
+		{
+			"labelKey": "draw.lightList.naturalLight",
+			"value": "Natural light"
+		},
+		{
+			"labelKey": "draw.lightList.sunLight",
+			"value": "Sun light"
+		},
+		{
+			"labelKey": "draw.lightList.moody",
+			"value": "moody"
+		}
+	],
+	"versionList": [
+		{
+			"labelKey": "draw.versionList.mjV6",
+			"value": "--v 6.0"
+		},
+		{
+			"labelKey": "draw.versionList.mjV52",
+			"value": "--v 5.2"
+		},
+		{
+			"labelKey": "draw.versionList.mjV51",
+			"value": "--v 5.1"
+		},
+		{
+			"labelKey": "draw.versionList.nijiV6",
+			"value": "--niji 6"
+		},
+		{
+			"labelKey": "draw.versionList.nijiV5",
+			"value": "--niji 5"
+		},
+		{
+			"labelKey": "draw.versionList.nijiV4",
+			"value": "--niji 4"
+		},
+		{
+			"labelKey": "draw.versionList.nijiJourney",
+			"value": "NIJI_JOURNEY"
+		}
+	],
+	"botList": [
+		{
+			"labelKey": "draw.botList.midjourneyBot",
+			"value": "MID_JOURNEY"
+		},
+		{
+			"labelKey": "draw.botList.nijiJourney",
+			"value": "NIJI_JOURNEY"
+		}
+	],
+	"dimensionsList": [
+		{
+			"labelKey": "draw.dimensionsList.square",
+			"value": "SQUARE"
+		},
+		{
+			"labelKey": "draw.dimensionsList.portrait",
+			"value": "PORTRAIT"
+		},
+		{
+			"labelKey": "draw.dimensionsList.landscape",
+			"value": "LANDSCAPE"
+		}
+	]
+}
